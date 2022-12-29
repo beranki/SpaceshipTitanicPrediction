@@ -1,5 +1,6 @@
 # SpaceshipTitanicPrediction
-Spaceship Titanic Predictions + EDA
+Spaceship Titanic Predictions + EDA:
+
 This Kaggle repository is based off of the following competition:
 https://www.kaggle.com/competitions/spaceship-titanic
 
